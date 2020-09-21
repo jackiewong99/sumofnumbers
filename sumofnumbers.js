@@ -9,7 +9,7 @@ const sumFor = (arr) => {
 };
 
 const sumWhile = (arr) => {
-  let total;
+  let total = 0;
   let i = 0;
   while (i < arr.length) {
     total += arr[i];

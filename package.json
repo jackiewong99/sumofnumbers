@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "scripts": {
-    "lint": "eslint --ext .js ../../../Downloads"
+    "lint": "eslint --ext .js ."
   },
   "private": true
 }
